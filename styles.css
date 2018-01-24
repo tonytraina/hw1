@@ -1,0 +1,17 @@
+* {
+  font-family: sans-serif;
+}
+
+#monkey {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  width: 50px;
+}
+
+#graph {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
